@@ -1,5 +1,7 @@
 # Catalog Insight
 
+[![tests](https://github.com/Evan-prog848/catalog-insight-product-data-pipeline/actions/workflows/tests.yml/badge.svg)](https://github.com/Evan-prog848/catalog-insight-product-data-pipeline/actions/workflows/tests.yml)
+
 Catalog Insight is a small end-to-end product-data project built for a realistic
 freelance delivery: collect public catalog records, clean them, store them in a
 repeatable format, and hand the client a useful Excel report instead of a raw
